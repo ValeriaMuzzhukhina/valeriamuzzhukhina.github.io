@@ -371,9 +371,6 @@ svg path {
   letter-spacing: 3px;
 }
 
-.s_about li:first-child {
-  margin-bottom: 17px;
-}
 
 .s_about .person {
   text-align: center;
