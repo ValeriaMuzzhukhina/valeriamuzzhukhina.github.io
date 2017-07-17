@@ -358,11 +358,13 @@ svg path {
   text-transform: none;
 }
 
+.s_about p.info p {
+  font-family: "RobotoRegular", sans-serif   
+}
 .s_about ul, .s_about li {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  font-family: 'AdventProMedium', sans-serif;
   font-weight: 600;
 }
 
