@@ -1,0 +1,81 @@
+@font-face {
+	font-family: 'LatoBlack';
+	src: url('../fonts/LatoBlack/LatoBlack.eot');
+	src: url('../fonts/LatoBlack/LatoBlack.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/LatoBlack/LatoBlack.woff') format('woff'),
+		 url('../fonts/LatoBlack/LatoBlack.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'LatoBold';
+	src: url('../fonts/LatoBold/LatoBold.eot');
+	src: url('../fonts/LatoBold/LatoBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/LatoBold/LatoBold.woff') format('woff'),
+		 url('../fonts/LatoBold/LatoBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'LatoRegular';
+	src: url('../fonts/LatoRegular/LatoRegular.eot');
+	src: url('../fonts/LatoRegular/LatoRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/LatoRegular/LatoRegular.woff') format('woff'),
+		 url('../fonts/LatoRegular/LatoRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'BebasNeueBook';
+	src: url('../fonts/BebasNeueBook/BebasNeueBook.eot');
+	src: url('../fonts/BebasNeueBook/BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/BebasNeueBook/BebasNeueBook.woff') format('woff'),
+		 url('../fonts/BebasNeueBook/BebasNeueBook.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'BebasNeueRegular';
+	src: url('../fonts/BebasNeueRegular/BebasNeueRegular.eot');
+	src: url('../fonts/BebasNeueRegular/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/BebasNeueRegular/BebasNeueRegular.woff') format('woff'),
+		 url('../fonts/BebasNeueRegular/BebasNeueRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansRegular';
+	src: url('../fonts/OpenSansRegular/OpenSansRegular.eot');
+	src: url('../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/OpenSansRegular/OpenSansRegular.woff') format('woff'),
+		 url('../fonts/OpenSansRegular/OpenSansRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansLightItalic';
+	src: url('../fonts/OpenSansLightItalic/OpenSansLightItalic.eot');
+	src: url('../fonts/OpenSansLightItalic/OpenSansLightItalic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/OpenSansLightItalic/OpenSansLightItalic.woff') format('woff'),
+		 url('../fonts/OpenSansLightItalic/OpenSansLightItalic.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansLight';
+	src: url('../fonts/OpenSansLight/OpenSansLight.eot');
+	src: url('../fonts/OpenSansLight/OpenSansLight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/OpenSansLight/OpenSansLight.woff') format('woff'),
+		 url('../fonts/OpenSansLight/OpenSansLight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansBold';
+	src: url('../fonts/OpenSansBold/OpenSansBold.eot');
+	src: url('../fonts/OpenSansBold/OpenSansBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/OpenSansBold/OpenSansBold.woff') format('woff'),
+		 url('../fonts/OpenSansBold/OpenSansBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}

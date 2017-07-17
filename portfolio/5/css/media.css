@@ -1,0 +1,105 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.items img{
+		width: 80%;
+	}
+	.servisec .col-md-4{
+		text-align: center;
+		
+	}
+	.servisec .col-md-4 .servisec_img{
+		margin: 0 auto 30px;
+	}
+	
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.portfolio_box .row{
+		text-align: center;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 640px) {
+	.btn_menu{
+		display: block;
+	}
+	.menu ul{
+		display: none;
+		position: absolute;
+		left: 0;
+		width: 100%;
+		background-color: #2d303a;
+		text-align: center;
+		top: 99px;
+		z-index: 10;
+	}
+	.menu li{
+		display: block;
+		padding: 10px 0;
+	}
+	.menu li:hover{
+		background-color: #323746;
+	}
+	.menu a:before{
+		content: "";
+	}
+	.portfolio_box .col-md-3 img{
+		width: 100%;
+		max-width: 220px;
+
+	} 
+}
+@media only screen and (max-width : 400px) {
+	.portfolio_box button{
+		margin: 0px 3px 19px 0px;
+		padding: 5px 6px;
+	}
+
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+
+}
+
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 640px) {
+	.menu ul{
+		display: block !important;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

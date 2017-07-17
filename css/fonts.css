@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'DidactGothicRegular';
+	src: url('../fonts/DidactGothicRegular/DidactGothicRegular.eot');
+	src: url('../fonts/DidactGothicRegular/DidactGothicRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/DidactGothicRegular/DidactGothicRegular.woff') format('woff'),
+		 url('../fonts/DidactGothicRegular/DidactGothicRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'AdventProBold';
+	src: url('../fonts/AdventProBold/AdventProBold.eot');
+	src: url('../fonts/AdventProBold/AdventProBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AdventProBold/AdventProBold.woff') format('woff'),
+		 url('../fonts/AdventProBold/AdventProBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'AdventProLight';
+	src: url('../fonts/AdventProLight/AdventProLight.eot');
+	src: url('../fonts/AdventProLight/AdventProLight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AdventProLight/AdventProLight.woff') format('woff'),
+		 url('../fonts/AdventProLight/AdventProLight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'AdventProMedium';
+	src: url('../fonts/AdventProMedium/AdventProMedium.eot');
+	src: url('../fonts/AdventProMedium/AdventProMedium.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AdventProMedium/AdventProMedium.woff') format('woff'),
+		 url('../fonts/AdventProMedium/AdventProMedium.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'AdventProRegular';
+	src: url('../fonts/AdventProRegular/AdventProRegular.eot');
+	src: url('../fonts/AdventProRegular/AdventProRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AdventProRegular/AdventProRegular.woff') format('woff'),
+		 url('../fonts/AdventProRegular/AdventProRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DosisRegular';
+	src: url('../fonts/DosisRegular/DosisRegular.eot');
+	src: url('../fonts/DosisRegular/DosisRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/DosisRegular/DosisRegular.woff') format('woff'),
+		 url('../fonts/DosisRegular/DosisRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../fonts/FontAwesome/FontAwesome.eot');
+	src: url('../fonts/FontAwesome/FontAwesome.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/FontAwesome/FontAwesome.woff') format('woff'),
+		 url('../fonts/FontAwesome/FontAwesome.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+

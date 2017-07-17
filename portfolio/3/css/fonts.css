@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'BadScriptRegular';
+	src: url('../fonts/BadScriptRegular/BadScriptRegular.eot');
+	src: url('../fonts/BadScriptRegular/BadScriptRegular.eot?#iefix') format('embedded-opentype'),
+		 	url('../fonts/BadScriptRegular/BadScriptRegular.woff') format('woff'),
+		 	url('../fonts/BadScriptRegular/BadScriptRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'CleanvertisingLight';
+	src: url('../fonts/CleanvertisingLight/CleanvertisingLight.eot');
+	src: url('../fonts/CleanvertisingLight/CleanvertisingLight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CleanvertisingLight/CleanvertisingLight.woff') format('woff'),
+		 url('../fonts/CleanvertisingLight/CleanvertisingLight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'RobotoBold';
+	src: url('../fonts/RobotoBold/RobotoBold.eot');
+	src: url('../fonts/RobotoBold/RobotoBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/RobotoBold/RobotoBold.woff') format('woff'),
+		 url('../fonts/RobotoBold/RobotoBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'RobotoRegular';
+	src: url('../fonts/RobotoRegular/RobotoRegular.eot');
+	src: url('../fonts/RobotoRegular/RobotoRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/RobotoRegular/RobotoRegular.woff') format('woff'),
+		 url('../fonts/RobotoRegular/RobotoRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'icons';
+	src: url('../fonts/icons/icons.eot');
+	src: url('../fonts/icons/icons.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/icons/icons.woff') format('woff'),
+		 url('../fonts/icons/icons.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}

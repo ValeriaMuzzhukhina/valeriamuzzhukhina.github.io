@@ -1,0 +1,488 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  /**/
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  /**/
+  .reviews .owl-buttons {
+    display: inline-block;
+  }
+  .reviews .owl-buttons .owl-prev:after {
+    left: -15px;
+  }
+  .reviews .owl-buttons .owl-next:before {
+    right: -30px;
+  }
+  .reviews h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /**/
+  header {
+    padding-top: 28px;
+  }
+  header .logo {
+    text-align: center;
+  }
+  header .top_phone {
+    float: none;
+    text-align: center;
+  }
+  header .top_phone .wrapper .tabs .tab {
+    text-align: center;
+    float: none;
+  }
+  header .top_phone .wrapper .tab_content .tab_item {
+    font-size: 30px;
+    text-align: center;
+  }
+  header .head {
+    margin-top: 30px;
+    text-align: center;
+  }
+  header h1 {
+    font-size: 50px;
+  }
+  header h2 {
+    font-size: 30px;
+  }
+  header .head_tabs {
+    margin-top: 100px;
+  }
+  header .head_tabs ul {
+    margin-top: 20px;
+  }
+  header .head_tabs ul li {
+    font-size: 16px;
+  }
+  header .head_tabs ul li i {
+    font-size: 26px;
+  }
+  header .wrapper .tabs {
+    margin-top: 35px;
+  }
+  header .wrapper .tabs .tab {
+    font-size: 18px;
+  }
+  header .wrapper .tab_content {
+    padding: 12px 18px;
+    font-size: 16px;
+  }
+  header .wrapper .tab_content .tab_item {
+    font-size: 16px;
+  }
+  .reclame {
+    text-align: center;
+  }
+  .profi h2 {
+    font-size: 45px;
+    margin: 5px;
+  }
+  .profi .profi_item {
+    text-align: center;
+    right: 12%;
+    margin-bottom: 0;
+  }
+  .profi .profi_item .profi_left {
+    float: none;
+    display: inline-block;
+  }
+  .profi .profi_item .profi_right {
+    display: inline-block;
+    margin-top: 100px;
+  }
+  .profi .profi_item h3 {
+    font-size: 24px;
+  }
+  .profi form {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .profi form h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .profi form label {
+    width: 100%;
+  }
+  .profi form .button_wrap {
+    margin: 42px 0;
+  }
+  .icon.icons_g:before {
+    left: 30px;
+  }
+  .icon.icons_h:before {
+    left: 30px;
+  }
+  .icon.icons_i:before {
+    left: 30px;
+  }
+  .icon.icons_j:before {
+    left: 30px;
+  }
+  .reviews {
+    padding: 40px 0px 40px;
+  }
+  .reviews h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .owl-buttons {
+    display: none;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  /**/
+  header {
+    padding-top: 10px;
+  }
+  header .logo {
+    text-align: center;
+  }
+  header .top_phone {
+    float: none;
+    text-align: center;
+  }
+  header .top_phone .wrapper .tabs {
+    margin-top: 0px;
+  }
+  header .top_phone .wrapper .tabs .tab {
+    text-align: center;
+    float: none;
+  }
+  header .top_phone .wrapper .tab_content .tab_item {
+    font-size: 25px;
+    text-align: center;
+  }
+  header .head {
+    margin-top: 5px;
+    text-align: center;
+  }
+  header h1 {
+    font-size: 43px;
+  }
+  header h2 {
+    font-size: 25px;
+  }
+  header .head_tabs {
+    margin-top: 0px;
+  }
+  header .head_tabs ul {
+    margin-top: 20px;
+  }
+  header .head_tabs ul li {
+    font-size: 14px;
+  }
+  header .head_tabs ul li i {
+    font-size: 24px;
+  }
+  header .wrapper .tabs {
+    margin-top: 25px;
+  }
+  header .wrapper .tabs .tab {
+    padding: 10px 15px;
+  }
+  header .wrapper .tab_content {
+    padding: 12px 18px;
+    font-size: 14px;
+  }
+  header .wrapper .tab_content .tab_item {
+    font-size: 14px;
+  }
+  .reclame {
+    padding-right: 27%;
+  }
+  .profi h2 {
+    font-size: 38px;
+    margin: 5px;
+  }
+  .profi .profi_item {
+    text-align: center;
+    right: 33%;
+    margin-bottom: 0;
+    width: 130%;
+  }
+  .profi .profi_item .profi_left {
+    float: none;
+    display: inline-block;
+  }
+  .profi .profi_item .profi_right {
+    display: inline-block;
+    margin-top: 100px;
+  }
+  .profi .profi_item .profi_right p {
+    text-align: justify;
+    word-spacing: -1px;
+  }
+  .profi .profi_item h3 {
+    font-size: 24px;
+  }
+  .profi form {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .profi form h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .profi form label {
+    width: 100%;
+  }
+  .profi form .button_wrap {
+    margin: 42px 0;
+  }
+  .icon.icons_g:before {
+    left: 30px;
+  }
+  .icon.icons_h:before {
+    left: 30px;
+  }
+  .icon.icons_i:before {
+    left: 30px;
+  }
+  .icon.icons_j:before {
+    left: 30px;
+  }
+  .reviews {
+    padding: 30px 0px 30px;
+  }
+  .reviews h2 {
+    font-size: 37px;
+    margin-bottom: 25px;
+  }
+  .reviews .owl-buttons {
+    display: none;
+  }
+  .reviews .line {
+    display: none;
+  }
+  .reviews .reviwe_item p {
+    margin-top: 0;
+  }
+  .lore h3 {
+    font-size: 19px;
+  }
+  .contact {
+    padding-top: 25px;
+  }
+  .contact .contact_top h2 {
+    font-size: 45px;
+  }
+  .contact .contact_top .tabs {
+    margin-left: 0;
+  }
+  .contact .contact_top .tabs .tab {
+    float: none;
+  }
+  .contact .contact_top .tabs .tab:first-child {
+    -webkit-border-radius: 0;
+            border-radius: 0;
+  }
+  .contact .contact_top .tabs .tab:last-child {
+    -webkit-border-radius: 0;
+            border-radius: 0;
+  }
+  .contact .contact_top .tabs .btn_contact {
+    width: 80%;
+    border: 3px solid #9b1818;
+  }
+  footer {
+    padding: 35px 0px 45px;
+  }
+  footer h2 {
+    margin-bottom: 15px;
+    font-size: 45px;
+  }
+  footer p {
+    font-size: 18px;
+  }
+  footer .bottom_phone {
+    padding: 25px 0px 20px;
+  }
+  footer .bottom_phone .wrapper .tab_content .tab_item {
+    font-size: 34px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  header .head_tabs .wrapper .tabs .tab {
+    padding: 10px 10px;
+    font-size: 16px;
+  }
+  .profi {
+    padding: 20px 0px 30px 0px;
+  }
+  .profi h2 {
+    font-size: 32px;
+  }
+  .profi .profi_item {
+    text-align: left;
+    right: 37%;
+    width: 140%;
+  }
+  .profi .profi_item .profi_left i {
+    font-size: 90px;
+  }
+  .profi form {
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 0;
+  }
+  .profi form h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .profi form label {
+    width: 100%;
+  }
+  .profi form .button_wrap {
+    margin: 42px 0;
+  }
+  .profi form .button_wrap .button {
+    font-size: 13px;
+  }
+  .icon.icons_g:before {
+    left: 115px;
+  }
+  .icon.icons_h:before {
+    left: 115px;
+  }
+  .icon.icons_i:before {
+    left: 115px;
+  }
+  .icon.icons_j:before {
+    left: 115px;
+  }
+  .reviews {
+    padding: 30px 0px 30px;
+  }
+  .reviews h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .reviews .owl-buttons {
+    display: none;
+  }
+  .reviews .line {
+    display: none;
+  }
+  .reviews .reviwe_item p {
+    margin-top: 0;
+  }
+  .lore h3 {
+    font-size: 19px;
+  }
+  .contact {
+    padding-top: 20px;
+  }
+  .contact .contact_top h2 {
+    font-size: 40px;
+  }
+  .contact .contact_top .tabs {
+    margin-left: 0;
+  }
+  .contact .contact_top .tabs .tab {
+    float: none;
+  }
+  .contact .contact_top .tabs .tab:first-child {
+    -webkit-border-radius: 0;
+            border-radius: 0;
+  }
+  .contact .contact_top .tabs .tab:last-child {
+    -webkit-border-radius: 0;
+            border-radius: 0;
+  }
+  .contact .contact_top .tabs .btn_contact {
+    width: 80%;
+    border: 3px solid #9b1818;
+  }
+  footer {
+    padding: 35px 0px 45px;
+  }
+  footer h2 {
+    margin-bottom: 15px;
+    font-size: 45px;
+  }
+  footer p {
+    font-size: 18px;
+  }
+  footer .bottom_phone {
+    padding: 25px 0px 20px;
+  }
+  footer .bottom_phone .wrapper .tab_content .tab_item {
+    font-size: 30px;
+  }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 357px) {
+  /**/
+  header h1 {
+    font-size: 36px;
+  }
+  header .head_tabs .wrapper .tabs {
+    margin-top: 15px;
+  }
+  header .head_tabs .wrapper .tabs .tab {
+    padding: 10px 10px;
+    font-size: 16px;
+    width: 100%;
+  }
+  header .head_tabs .wrapper .btn_wrap {
+    text-align: center;
+  }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 330px) {
+  /**/
+  header h1 {
+    font-size: 36px;
+  }
+  header .head_tabs .wrapper .tabs {
+    margin-top: 15px;
+  }
+  header .head_tabs .wrapper .tabs .tab {
+    padding: 10px 10px;
+    font-size: 15px;
+    width: 100%;
+  }
+  header .head_tabs .wrapper .btn_wrap {
+    text-align: center;
+  }
+}
+
+/*==========  Mobile First  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+  /**/
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+  /**/
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+  /**/
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  /**/
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  /**/
+}
